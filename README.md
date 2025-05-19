@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋🏾 Hi, I’m Kuhle Tau – Aspiring UX Designer  
 
-<!--
-**KuhleTau/KuhleTau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 I’m passionate about designing **inclusive, human-centered digital experiences** that tackle real-world problems. My goal is to use UX design to **challenge prejudice, promote diversity**, and create **beautifully usable products**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Projects
+
+### 🔹 [Inclusive Education App](https://github.com/yourusername/inclusive-education-case-study)
+**Goal:** To create a mobile app that supports learners with diverse needs  
+**Tools:** Figma, User Research, Persona Development, Wireframing  
+**Highlights:** Designed low and high-fidelity prototypes using feedback from real users  
+
+---
+
+### 🔹 [Antique Store Redesign – Old Tyme Antique](https://github.com/yourusername/oldtymeantique-redesign)
+**Goal:** Modernize the UX of an eCommerce site for an antique business  
+**Tech:** Figma, HTML, CSS, PHP  
+**Focus:** Visual consistency, usability improvements, responsive layouts
+
+---
+
+### 🔹 [Gosselin Gourmet Coffee UX Case Study](https://github.com/yourusername/gosselin-gourmet-ux)
+**Goal:** Improve navigation and branding for a boutique coffee site  
+**Deliverables:** Journey maps, competitor analysis, UI refresh  
+**Result:** More intuitive navigation and improved user trust
+
+---
+
+### 🔹 [Electronic Boutique Login Flow Redesign](https://github.com/yourusername/electronicboutique-loginflow)
+**Challenge:** Make login/signup experience seamless across devices  
+**Designs:** Responsive forms, error handling UX, clear CTA hierarchy
+
+---
+
+## ✍🏾 Blog Posts
+- [Designing for Accessibility: Why Inclusivity is a UX Superpower](https://github.com/yourusername/blog-accessibility)
+- [From Research to UI: How I Built My First UX Case Study](#)
+
+---
+
+## 🛠️ Skills & Tools
+**UX & UI Design:** Figma · Adobe XD · Photoshop · Illustrator  
+**Research:** User Interviews · Surveys · Personas · Journey Mapping  
+**Front-End:** HTML · CSS · Git · GitHub · Basic JavaScript  
+**Soft Skills:** Empathy · Communication · Problem Solving · Storytelling  
+
+---
+
+## 🎯 Current Goals
+- ✅ Build a strong GitHub-based portfolio  
+- 🎥 Launch UX content on YouTube & TikTok  
+- 🧠 Learn advanced accessibility & WCAG standards  
+- 🤝 Collaborate on meaningful UX-focused open-source projects  
+
+---
+
+## 📬 Let’s Connect
+[LinkedIn](https://linkedin.com/in/yourname) · [Instagram](https://instagram.com/yourhandle) · [Email](mailto:your@email.com)  
+
+> ✨ "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs  
