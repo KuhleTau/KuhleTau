@@ -56,6 +56,10 @@
 ---
 
 ## 📬 Let’s Connect
-[LinkedIn](https://linkedin.com/in/yourname) · [Instagram](https://instagram.com/yourhandle) · [Email](mailto:your@email.com)  
+
+ <img align="left" alt="KuhleTau | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+ <img align="left" alt="KuhleTau | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+
+[LinkedIn](https://www.linkedin.com/in/kuhle-tau-6476a7272/) · [Instagram](https://instagram.com/yourhandle) · [Email](kuhle.tau@gmail.com)  
 
 > ✨ "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs  
