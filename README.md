@@ -114,9 +114,8 @@ As an aspiring UX designer, my goal is to create digital experiences that are ac
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [Pick n Pay Project](https://github.com/KuhleTau/KuhleTau/blob/d0c9bf397ae2ffca276486d4f2e6cb6879128103/Projects/Pick%20n%20Pay%20-%20Face.mp4) | AN SVG animation showcasing how Pick n Pay products can be used in innovative ways. | Adobe Illustrator, Visual Studio Code, User Research |
-| [Mental Health Website](https://github.com/yourusername/oldtymeantique-redesign) | eCommerce UX/UI refresh for a heritage antique store | HTML, CSS |
-| [Portfolio Design](https://github.com/yourusername/gosselin-gourmet-ux) | UX audit and rebranding for a boutique coffee site | Figma, Branding |
-| [CPUT App Wireframe](https://github.com/yourusername/electronicboutique-loginflow) | Improved login/sign-up experience | HTML, CSS |
+| [Mental Health Website](https://github.com/KuhleTau/KuhleTau/blob/09401446e67de46d73e7478c5ef4e67c1f21f205/Projects/Mental%20Health%20Website.png) | Mental Health website that connects users in need to qualified professionals | HTML, CSS, JavaScript |
+| [CPUT App Wireframe](https://github.com/yourusername/electronicboutique-loginflow) | Improved login/sign-up experience | HTML, CSS | Wireframe
 
 ---
 
