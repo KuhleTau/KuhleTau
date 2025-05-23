@@ -22,8 +22,8 @@ This digital portfolio showcases:
 
 ### 📌 Evidence
 - Career assessment results  
-- Guidance session notes  
-- Personal vision board
+- Online assessment reports  
+  
 
 ### 💡 Reflection (STAR)
 **S:** I felt unsure about my future in design.  
@@ -113,10 +113,10 @@ As an aspiring UX designer, my goal is to create digital experiences that are ac
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Inclusive Education App](https://github.com/yourusername/inclusive-education-case-study) | A mobile solution to support diverse learners in education | Figma, User Research |
-| [Old Tyme Antique Redesign](https://github.com/yourusername/oldtymeantique-redesign) | eCommerce UX/UI refresh for a heritage antique store | HTML, CSS |
-| [Gosselin Gourmet Coffee](https://github.com/yourusername/gosselin-gourmet-ux) | UX audit and rebranding for a boutique coffee site | Figma, Branding |
-| [Electronic Boutique Login Flow](https://github.com/yourusername/electronicboutique-loginflow) | Improved login/sign-up experience | HTML, CSS |
+| [Pick n Pay Project](https://github.com/yourusername/inclusive-education-case-study) | A mobile solution to support diverse learners in education | Figma, User Research |
+| [Mental Health Website](https://github.com/yourusername/oldtymeantique-redesign) | eCommerce UX/UI refresh for a heritage antique store | HTML, CSS |
+| [Portfolio Design](https://github.com/yourusername/gosselin-gourmet-ux) | UX audit and rebranding for a boutique coffee site | Figma, Branding |
+| [CPUT App Wireframe](https://github.com/yourusername/electronicboutique-loginflow) | Improved login/sign-up experience | HTML, CSS |
 
 ---
 
