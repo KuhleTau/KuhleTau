@@ -18,8 +18,8 @@ This digital portfolio showcases:
 
 ---
 
-### Career Counselling: Plum Systems Internship  
-![Plum Systems Welcome](Screenshot%202025-05-23%20223728.png)  
+## 🌱 Career Counselling: Plum Systems Internship  
+![Plum Systems Welcome](https://github.com/KuhleTau/KuhleTau/blob/83e00448748b955ccefafe32226f7a17de5f2ad8/career-counselling/Plum%20Systems.png)  
 
 **Reflection (STAR Technique):**  
 - **Situation:** Attended Plum Systems onboarding as a new intern.  
@@ -45,18 +45,20 @@ This digital portfolio showcases:
 
 ---
 
-## 🧠 3. Personality Assessment
+# 🌟 Personality Assessment – Reflection (STAR)
 
-### 📌 Evidence
-- 16Personalities result: INFP-T  
-- Holland Code test  
-- Peer reviews on collaboration
+**Situation:**  
+At the start of the year, I wanted to better understand how my personality could influence my career path in UX design.
 
-### 💡 Reflection (STAR)
-**S:** I wanted to understand how I work in teams and solve problems.  
-**T:** Explore my personality traits and how they impact my career.  
-**A:** Completed formal assessments and collected peer feedback.  
-**R:** I learned that I thrive in roles requiring empathy, reflection, and creative problem-solving — all essential in UX.
+**Task:**  
+I needed to assess my soft skills, work preferences, and how I interact in team settings.
+
+**Action:**  
+I completed the 16Personalities and Holland Code assessments, and discussed my results with classmates and mentors.
+
+**Result:**  
+I discovered that I'm empathetic, reflective, and creative — qualities that are highly valuable in UX design. These insights helped me approach projects with greater self-awareness and sensitivity to user needs.
+
 
 ---
 
