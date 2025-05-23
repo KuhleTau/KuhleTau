@@ -115,7 +115,7 @@ As an aspiring UX designer, my goal is to create digital experiences that are ac
 |--------|-------------|-------|
 | [Pick n Pay Project](https://github.com/KuhleTau/KuhleTau/blob/d0c9bf397ae2ffca276486d4f2e6cb6879128103/Projects/Pick%20n%20Pay%20-%20Face.mp4) | AN SVG animation showcasing how Pick n Pay products can be used in innovative ways. | Adobe Illustrator, Visual Studio Code, User Research |
 | [Mental Health Website](https://github.com/KuhleTau/KuhleTau/blob/09401446e67de46d73e7478c5ef4e67c1f21f205/Projects/Mental%20Health%20Website.png) | Mental Health website that connects users in need to qualified professionals | HTML, CSS, JavaScript |
-| [CPUT App Wireframe](https://github.com/yourusername/electronicboutique-loginflow) | Improved login/sign-up experience | HTML, CSS | Wireframe
+| [CPUT App Wireframe](https://github.com/KuhleTau/KuhleTau/blob/58cea93286857d6c1089b18be82c88d9acb4d001/Projects/CPUT%20App%20Wireframe.png) |Wireframe to improve the UX/UI Design of the CPUT Application/Website | Figma | Wireframe
 
 ---
 
@@ -126,7 +126,6 @@ As an aspiring UX designer, my goal is to create digital experiences that are ac
 
 - 📧 Email: kuhletau@email.com  
 - 💼 LinkedIn: [linkedin.com/in/kuhletau](https://linkedin.com/in/kuhletau)  
-- 🎨 Instagram: [@kuhleux](https://instagram.com/kuhleux)
 
 ---
 
