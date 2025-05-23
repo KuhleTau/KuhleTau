@@ -49,7 +49,7 @@ This digital portfolio showcases:
 
 Here’s a snapshot of my personality type (INFP-T), as assessed by 16Personalities:
 
-![Personality Test Result](personality/16personalities-result.png)
+![Personality Test Result](https://github.com/KuhleTau/KuhleTau/blob/64f1d19bcc95bc760b7735b71d0f3f76b672b7f0/personality/Screenshot%202025-05-23%20211710.png)
 
 ### 💡 Reflection (STAR)
 **S:** I joined Plum Systems as an intern, eager to align my technical skills with industry needs.
