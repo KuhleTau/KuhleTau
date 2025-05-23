@@ -103,7 +103,7 @@ As an aspiring UX designer, my goal is to create digital experiences that are ac
 
 | UX & UI Design         | Front-End Skills        | Soft Skills               |
 |------------------------|-------------------------|----------------------------|
-| Figma, Adobe XD        | HTML5, CSS3, GitHub     | Empathy, Teamwork         |
+| Figma, Adobe XD        | HTML5, CSS3, JavaScript     | Empathy, Teamwork         |
 | Wireframes, Prototypes | Markdown, GitHub Pages  | Communication, Reflection |
 | Usability Testing      | Responsive Design       | Critical Thinking         |
 
@@ -113,7 +113,7 @@ As an aspiring UX designer, my goal is to create digital experiences that are ac
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Pick n Pay Project](https://github.com/yourusername/inclusive-education-case-study) | A mobile solution to support diverse learners in education | Figma, User Research |
+| [Pick n Pay Project](https://github.com/KuhleTau/KuhleTau/blob/d0c9bf397ae2ffca276486d4f2e6cb6879128103/Projects/Pick%20n%20Pay%20-%20Face.mp4) | AN SVG animation showcasing how Pick n Pay products can be used in innovative ways. | Adobe Illustrator, Visual Studio Code, User Research |
 | [Mental Health Website](https://github.com/yourusername/oldtymeantique-redesign) | eCommerce UX/UI refresh for a heritage antique store | HTML, CSS |
 | [Portfolio Design](https://github.com/yourusername/gosselin-gourmet-ux) | UX audit and rebranding for a boutique coffee site | Figma, Branding |
 | [CPUT App Wireframe](https://github.com/yourusername/electronicboutique-loginflow) | Improved login/sign-up experience | HTML, CSS |
