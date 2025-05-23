@@ -45,19 +45,18 @@ This digital portfolio showcases:
 
 ---
 
-# 🌟 Personality Assessment – Reflection (STAR)
+## 🧠 Personality Assessment
 
-**Situation:**  
-At the start of the year, I wanted to better understand how my personality could influence my career path in UX design.
+Here’s a snapshot of my personality type (INFP-T), as assessed by 16Personalities:
 
-**Task:**  
-I needed to assess my soft skills, work preferences, and how I interact in team settings.
+![Personality Test Result](personality/16personalities-result.png)
 
-**Action:**  
-I completed the 16Personalities and Holland Code assessments, and discussed my results with classmates and mentors.
+### 💡 Reflection (STAR)
+**S:** I joined Plum Systems as an intern, eager to align my technical skills with industry needs.
+**T:** Needed to understand the company’s core focus areas (AI, cybersecurity, app development) to contribute effectively.
+**A:** Attended onboarding sessions, reviewed project case studies, and documented key goals from the welcome presentation.
+**R:** Identified how my programming skills could support their AI initiatives, leading to my involvement in a chatbot project.
 
-**Result:**  
-I discovered that I'm empathetic, reflective, and creative — qualities that are highly valuable in UX design. These insights helped me approach projects with greater self-awareness and sensitivity to user needs.
 
 
 ---
