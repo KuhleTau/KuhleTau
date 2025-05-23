@@ -18,18 +18,14 @@ This digital portfolio showcases:
 
 ---
 
-## 🌱 1. Career Counselling
+### Career Counselling: Plum Systems Internship  
+![Plum Systems Welcome](Screenshot%202025-05-23%20223728.png)  
 
-### 📌 Evidence
-- Career assessment results  
-- Online assessment reports  
-  
-
-### 💡 Reflection (STAR)
-**S:** I felt unsure about my future in design.  
-**T:** I needed to align my passion with a meaningful career.  
-**A:** I engaged in workshops and completed career assessments.  
-**R:** I discovered my calling in UX design, especially within accessibility and social impact spaces.
+**Reflection (STAR Technique):**  
+- **Situation:** Attended Plum Systems onboarding as a new intern.  
+- **Task:** Needed to understand company goals in AI/tech.  
+- **Action:** Engaged with mentors and documented key focus areas.  
+- **Result:** Gained clarity on aligning my skills with their AI development roadmap.  
 
 ---
 
