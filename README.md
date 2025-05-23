@@ -67,7 +67,7 @@ This digital portfolio showcases:
 ## 📄 4. CV
 
 ### 📌 Evidence
-- [Download PDF](./cv/kuhle-tau-cv.pdf)  
+- [Download PDF](https://github.com/KuhleTau/KuhleTau/blob/7679ba0b84fa65f7cbc4958a91880909fb7d4ef0/cv/Kuhle%20Tau's%20Resume.pdf)  
 - Markdown CV available below
 
 ### 💡 Reflection (STAR)
