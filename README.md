@@ -5,7 +5,7 @@
 Hi there! I’m Kuhle, an aspiring UX designer with a passion for inclusive, human-centered design. This portfolio is a curated collection of my learning journey and skills, developed through CPUT’s Work Readiness training and practical design projects.
 
 🔗 **GitHub Pages:** [https://yourusername.github.io](https://yourusername.github.io)  
-📄 **CV Download:** [cv/Kuhle Tau's Resume.pdf]
+📄 **CV Download:** [cv/Kuhle Tau's Resume.pdf](https://github.com/KuhleTau/KuhleTau/blob/7679ba0b84fa65f7cbc4958a91880909fb7d4ef0/cv/Kuhle%20Tau's%20Resume.pdf)
 
 ---
 
