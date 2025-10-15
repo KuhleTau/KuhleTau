@@ -21,9 +21,10 @@ This digital portfolio showcases:
 ## 🌱 Career Counselling:
 
 ## 1. Business Communication
-(!Business Communication.png)
+![Plum Systems Welcome](https://github.com/KuhleTau/KuhleTau/blob/main/career-counselling/Business%20Communication.png)
 
   **Evidence:**
+  
   Proof of my submissions:
   This evidence shows that I have completed the uploaded lessons, proving that I engaged with the content thoroughly and as expected. The screenshots serve as visual proof to back up what I have described in my STAR reflections.
 
