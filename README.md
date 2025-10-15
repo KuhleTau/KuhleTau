@@ -21,7 +21,7 @@ This digital portfolio showcases:
 ## 🌱 Career Counselling:
 
 ## 1. Business Communication
-[!Business Communication].(
+(!Business Communication.png)
 
   **Evidence:**
   Proof of my submissions:
