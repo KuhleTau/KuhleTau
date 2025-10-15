@@ -12,11 +12,27 @@ Hi there! I’m Kuhle, an aspiring UX designer with a passion for inclusive, hum
 ## 📚 What This Portfolio Includes
 
 This digital portfolio showcases:
-- Evidence of my skills, personality, and career goals
-- Reflections using the **STAR technique** (Situation, Task, Action, Result)
+- Evidence of my skills development and project work, personality, and career goals
+- Reflections using the **STAR technique** (Situation, Task, Action, Result) on my learning journey
+- Professional artifacts demonstrating business communication, interview skills, and workplace read
 - Case studies of my UX design projects
 
 ---
+## 🌱 Career Counselling:
+
+## 1. Business Communication
+[!Business Communication].(
+
+  **Evidence:**
+  Proof of my submissions:
+  This evidence shows that I have completed the uploaded lessons, proving that I engaged with the content thoroughly and as expected. The screenshots serve as visual proof to back up what I have described in my STAR reflections.
+
+  **Reflection (STAR Technique):**
+  - **Situation:** I had to read through and interact with the slideshow presentation  that discussed Business Communication. I was required to complete all the activities in the slideshow and complete the exam at the end of the slideshow so that I could submit.
+  - **Task:** I had to watch a slideshow presentation and also complete an exam at the end of of it, assessing the lessons I learned on professional email etiquette, preesentation skills and report writing.
+  - **Action:** I studied and read through all the information in the slideshow and completed the exam at the end, which tested my understanding of what I learned.
+  - **Result:** The presentation broadened my understanding of how to communicate professionally and effectively in a business environment. It also taught me the key diffrences between informal and formal communication.
+
 
 ## 🌱 Career Counselling: Plum Systems Internship  
 ![Plum Systems Welcome](https://github.com/KuhleTau/KuhleTau/blob/83e00448748b955ccefafe32226f7a17de5f2ad8/career-counselling/Plum%20Systems.png)  
