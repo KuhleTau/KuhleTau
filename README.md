@@ -21,11 +21,11 @@ This digital portfolio showcases:
 ## 🌱 Career Counselling:
 
 ## 1. Business Communication
-![Plum Systems Welcome](https://github.com/KuhleTau/KuhleTau/blob/main/career-counselling/Business%20Communication.png)
+![Business Communication](https://github.com/KuhleTau/KuhleTau/blob/main/career-counselling/Business%20Communication.png)
 
   **Evidence:**
   
-  Proof of my submissions:
+  Proof of my Blackboard Submission:
   This evidence shows that I have completed the uploaded lessons, proving that I engaged with the content thoroughly and as expected. The screenshots serve as visual proof to back up what I have described in my STAR reflections.
 
   **Reflection (STAR Technique):**
@@ -33,6 +33,67 @@ This digital portfolio showcases:
   - **Task:** I had to watch a slideshow presentation and also complete an exam at the end of of it, assessing the lessons I learned on professional email etiquette, preesentation skills and report writing.
   - **Action:** I studied and read through all the information in the slideshow and completed the exam at the end, which tested my understanding of what I learned.
   - **Result:** The presentation broadened my understanding of how to communicate professionally and effectively in a business environment. It also taught me the key diffrences between informal and formal communication.
+
+## 2. Interview Skills
+![Interview Skills ](https://github.com/KuhleTau/KuhleTau/blob/main/career-counselling/Interview%20Skills.png)
+
+  **Evidence:**
+  
+  Proof of my Blackboard Submission:
+  This evidence shows that I have completed the uploaded lessons, proving that I engaged with the content thoroughly and as expected. The screenshots serve as visual proof to back up what I have described in my STAR reflections.
+
+  **Reflection (STAR Technique):**
+  - **Situation:** I had to read through and interact with the slideshow presentation  that discussed Interview Skills. I was required to complete all the activities in the slideshow and complete the exam at the end of the slideshow so that I could submit.
+  - **Task:** The goal was to learn how to effectively prepare for an interview and also how to conduct myself during a one, including how to answer common questions and what to ask the interviewer.
+  - **Action:** I read through all the information in the slideshow and completed the small exam at the end. I also practiced how to formulate answers using the STAR method.
+  - **Result:** This activity informed me of the importance of researching the company you are interviewing for beforehand. Making me feel more prepared and confident for future job interviews.
+
+## 3. Mock Interview
+![Mock Interview ](https://github.com/KuhleTau/KuhleTau/blob/main/career-counselling/Mock%20Interview%20Video.png)
+
+  **Evidence:**
+  
+  Proof of my Blackboard Submission:
+  This evidence shows that I have completed the uploaded lessons, proving that I engaged with the content thoroughly and as expected. The screenshots serve as visual proof to back up what I have described in my STAR reflections.
+
+  **Reflection (STAR Technique):**
+  - **Situation:** I had to participate in a simulated job interview, in order to practice my interview skills in a realistic setting.
+  - **Task:** I was tasked with treating the mock interview as a real interview, which involved preparing my answers, dressing professionally, and answering a series of questions about my skills and experience.
+  - **Action:** I prepared by reviewing common interview questions and my CV. I then participated in the mock interview, answering questions and afterwards, I reviewed the feedback provided to me by the interviewer.
+  - **Result:** The mock interview was a valuable practice that highlighted my strengths and areas for improvement. Receiving direct feedback helped me understand how I come across to interviewers and what I need to work on.
+
+## 4. Professional Networking
+![Professional Networking ](https://github.com/KuhleTau/KuhleTau/blob/main/career-counselling/Professional%20Networking.png)
+
+  **Evidence:**
+  
+  Proof of my Blackboard Submission:
+  This evidence shows that I have completed the uploaded lessons, proving that I engaged with the content thoroughly and as expected. The screenshots serve as visual proof to back up what I have described in my STAR reflections.
+
+  **Reflection (STAR Technique):**
+  - **Situation:**  I had to interact and read through a slide show presentation that discussed Professional Networking. I also had to create or optimize a professional social media profile, like LinkedIn.
+  - **Task:** I had to learn the principles of professional networking and then apply them by updating my online profile to reflect a professional image and connect with industry individuals.
+  - **Action:** I read through all the information in the slideshow and did the small exam at the end. Then, I updated my LinkedIn profile with a professional photo, a compelling headline, and a detailed summary of my skills.
+  - **Result:** This activity helped me understand the importance of building a professional network and how to maintain an online presence that attracts opportunities. I am also more informed on things I lacked knowledge on before.
+
+## 5. Workplace Etiquette
+![Workplace Etiquette ](https://github.com/KuhleTau/KuhleTau/blob/main/career-counselling/Workplace%20Interview.png)
+
+  **Evidence:**
+  
+  Proof of my Blackboard Submission:
+  This evidence shows that I have completed the uploaded lessons, proving that I engaged with the content thoroughly and as expected. The screenshots serve as visual proof to back up what I have described in my STAR reflections.
+
+  **Reflection (STAR Technique):**
+  - **Situation:**I had to interact and read through a slide show presentation that discussed Workplace Etiquette. I had to complete all the activities in the slideshow and also finish the exam at the end of the slideshow to complete the submission.
+  - **Task:**  I had to learn about the unwritten rules and professional standards of behavior in an office environment, including communication, time management, and respect for colleagues.
+  - **Action:** I read through all the information in the slideshow and did the small exam at the end. Then, I updated my LinkedIn profile with a professional photo, a compelling headline, and a detailed summary of my skills.
+  - **Result:** This activity helped me understand the importance of building a professional network and how to maintain an online presence that attracts opportunities. I am also more informed on things I lacked knowledge on before.
+
+
+
+
+
 
 
 ## 🌱 Career Counselling: Plum Systems Internship  
