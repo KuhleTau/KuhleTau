@@ -31,8 +31,8 @@ This digital portfolio showcases:
   **Reflection (STAR Technique):**
   - **Situation:** I had to read through and interact with the slideshow presentation  that discussed Business Communication. I was required to complete all the activities in the slideshow and complete the exam at the end of the slideshow so that I could submit.
   - **Task:** I had to watch a slideshow presentation and also complete an exam at the end of of it, assessing the lessons I learned on professional email etiquette, preesentation skills and report writing.
-  - **Action:** I studied and read through all the information in the slideshow and completed the exam at the end, which tested my understanding of what I learned.
-  - **Result:** The presentation broadened my understanding of how to communicate professionally and effectively in a business environment. It also taught me the key diffrences between informal and formal communication.
+  - **Action:** I studied and read through all the information in the slideshow and completed the exam at the end, which tested my understanding of what I learned. 
+  - **Result:** The presentation broadened my understanding of how to communicate professionally and effectively in a business environment. It also taught me the key differences between informal and formal communication.
 
 ## 2. Interview Skills
 ![Interview Skills ](https://github.com/KuhleTau/KuhleTau/blob/main/career-counselling/Interview%20Skills.png)
@@ -58,9 +58,9 @@ This digital portfolio showcases:
 
   **Reflection (STAR Technique):**
   - **Situation:** I had to participate in a simulated job interview, in order to practice my interview skills in a realistic setting.
-  - **Task:** I was tasked with treating the mock interview as a real interview, which involved preparing my answers, dressing professionally, and answering a series of questions about my skills and experience.
-  - **Action:** I prepared by reviewing common interview questions and my CV. I then participated in the mock interview, answering questions and afterwards, I reviewed the feedback provided to me by the interviewer.
-  - **Result:** The mock interview was a valuable practice that highlighted my strengths and areas for improvement. Receiving direct feedback helped me understand how I come across to interviewers and what I need to work on.
+  - **Task:** I was tasked with treating the mock interview as a real interview, which involved dressing professionally, preparing my answers, and answering a series of questions about my skills and experience.
+  - **Action:** I prepared by reviewing my CV and common interview questions. I then participated in the mock interview, answering difficult questions I had prepared for myself.
+  - **Result:** The mock interview was a valuable practice that highlighted my strengths and weaknesses. This helped me understand how I may come across to interviewers and what I need to work on.
 
 ## 4. Professional Networking
 ![Professional Networking ](https://github.com/KuhleTau/KuhleTau/blob/main/career-counselling/Professional%20Networking.png)
@@ -71,10 +71,10 @@ This digital portfolio showcases:
   This evidence shows that I have completed the uploaded lessons, proving that I engaged with the content thoroughly and as expected. The screenshots serve as visual proof to back up what I have described in my STAR reflections.
 
   **Reflection (STAR Technique):**
-  - **Situation:**  I had to interact and read through a slide show presentation that discussed Professional Networking. I also had to create or optimize a professional social media profile, like LinkedIn.
-  - **Task:** I had to learn the principles of professional networking and then apply them by updating my online profile to reflect a professional image and connect with industry individuals.
-  - **Action:** I read through all the information in the slideshow and did the small exam at the end. Then, I updated my LinkedIn profile with a professional photo, a compelling headline, and a detailed summary of my skills.
-  - **Result:** This activity helped me understand the importance of building a professional network and how to maintain an online presence that attracts opportunities. I am also more informed on things I lacked knowledge on before.
+  - **Situation:**  I had to interact and read through a slide show presentation that discussed Professional Networking. 
+  - **Task:**  I had to actively study the material on the principles of professional networking and complete the exam at the end. I also needed to understand the unwritten rules of professional behavior to ensure I can integrate smoothly into any future work environment.
+  - **Action:**I read through all the scenarios and guidelines provided in the slideshow and successfully completed the final exam.
+  - **Result:**This activity helped me understand the importance of building a professional network and how to maintain an online presence that attracts opportunities. 
 
 ## 5. Workplace Etiquette
 ![Workplace Etiquette ](https://github.com/KuhleTau/KuhleTau/blob/main/career-counselling/Workplace%20Interview.png)
@@ -86,17 +86,12 @@ This digital portfolio showcases:
 
   **Reflection (STAR Technique):**
   - **Situation:**I had to interact and read through a slide show presentation that discussed Workplace Etiquette. I had to complete all the activities in the slideshow and also finish the exam at the end of the slideshow to complete the submission.
-  - **Task:**  I had to learn about the unwritten rules and professional standards of behavior in an office environment, including communication, time management, and respect for colleagues.
-  - **Action:** I read through all the information in the slideshow and did the small exam at the end. Then, I updated my LinkedIn profile with a professional photo, a compelling headline, and a detailed summary of my skills.
-  - **Result:** This activity helped me understand the importance of building a professional network and how to maintain an online presence that attracts opportunities. I am also more informed on things I lacked knowledge on before.
+  - **Task:**I had to learn about the unwritten rules and professional standards of behavior in an office environment, including communication, time management, and respect for colleagues.
+  - **Action:** I read through all the information in the slideshow and did the small exam at the end of the slideshow that tested my understanding of topics like punctuality, dress code, and digital communication norms.
+  - **Result:**The presentation deepened my understanding of how to conduct myself professionally in a workplace to build positive relationships and be a reliable team member. I am also more informed on things I lacked knowledge on before.
+---
 
-
-
-
-
-
-
-## 🌱 Career Counselling: Plum Systems Internship  
+## Plum Systems Internship  
 ![Plum Systems Welcome](https://github.com/KuhleTau/KuhleTau/blob/83e00448748b955ccefafe32226f7a17de5f2ad8/career-counselling/Plum%20Systems.png)  
 
 **Reflection (STAR Technique):**  
